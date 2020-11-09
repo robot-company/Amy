@@ -1,2 +1,2 @@
-# Amy
-The code backup, update and history maintaining for Amy
+# IRA
+The code backup, update and history maintaining for IRA
